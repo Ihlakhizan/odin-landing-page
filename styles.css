@@ -157,7 +157,7 @@ h1 {
 
 /* CALL TO ACTION */
 
-.footer {
+.cta-section {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -194,4 +194,19 @@ h1 {
     padding: 8px 40px;
     border-radius: 10px;
     border: 1px solid white;
+}
+
+/* FOOTER */
+
+.footer {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+}
+
+.footer-text {
+    color: white;
+    font-size: 18px;
 }
